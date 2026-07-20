@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Sushil Kumar Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Sushil Kumar 👋</h1>
 <p align="center">
   <strong>Full Stack .NET Developer</strong>

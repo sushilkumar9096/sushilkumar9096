@@ -46,14 +46,14 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Student Management System</h4>
-      <p>A full-featured web application designed to manage student registrations, academic records, and department allocations efficiently.</p>
+      <h4><a href="https://github.com/sushilkumar9096/ProductManagement" target="_blank">📦 Product Management System</a></h4>
+      <p>A robust web application built to manage products, categories, pricing structures, and inventory levels efficiently.</p>
       <p>
         <code>ASP.NET Core MVC</code> <code>C#</code> <code>Entity Framework Core</code> <code>SQL Server</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 Employee Management System</h4>
+      <h4><a href="https://github.com/sushilkumar9096/Employee_Management_System" target="_blank">💼 Employee Management System</a></h4>
       <p>An enterprise-ready system for handling staff records, attendance, payroll information, and organizational structures.</p>
       <p>
         <code>ASP.NET Core MVC</code> <code>C#</code> <code>Entity Framework Core</code> <code>SQL Server</code>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎬 Movie Management System</h4>
+      <h4><a href="https://github.com/sushilkumar9096/MovieManagement" target="_blank">🎬 Movie Management System</a></h4>
       <p>A custom solution for indexing movies, managing user reviews, categorizing genres, and tracking media library contents.</p>
       <p>
         <code>ASP.NET Core MVC</code> <code>C#</code> <code>SQL Server</code> <code>Bootstrap</code>

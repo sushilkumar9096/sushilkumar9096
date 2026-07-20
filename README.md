@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/sushilkumar-kuchame-33849a242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:kuchamesushil0076@gmail.com" target="_blank">
+  <a href="mailto:sushilofficial9096@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -109,9 +109,6 @@
   <a href="https://github.com/sushilkumar9096">
     <img src="https://github-readme-stats.vercel.app/api?username=sushilkumar9096&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="Sushil's GitHub Stats" height="170" />
   </a>
-  <a href="https://github.com/sushilkumar9096">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilkumar9096&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="170" />
-  </a>
 </p>
 
 <p align="center">
@@ -120,6 +117,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=sushilkumar9096&color=512bd4&style=flat-square" alt="Visitor Count" />
-</p>

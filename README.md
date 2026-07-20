@@ -16,12 +16,19 @@
   I am a passionate software developer focused on building robust, scalable web applications using the Microsoft .NET ecosystem and modern front-end technologies. I enjoy solving complex logic problems, designing efficient databases, and crafting clean, maintainable code.
 </p>
 
+### 👤 About Me
+
+- 🌍 I'm based in **Maharashtra, India**
+- 🖥️ Check out my portfolio at [my website](https://YOUR_PORTFOLIO_URL)
+- ✉️ You can reach me at **sushilofficial9096@gmail.com**
+- 🧠 I'm currently learning **REST APIs, Python, Java, and C#**
+
 ---
 
 ### 🛠️ Technologies & Tools
 
 *   **Languages:**  
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" alt="SQL"/>
 
 *   **Frameworks & Libraries:**  
     <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET Core"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core MVC"/> <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Web API"/> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="EF Core"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
